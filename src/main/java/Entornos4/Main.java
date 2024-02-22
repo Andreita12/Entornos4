@@ -40,7 +40,7 @@ public class Main {
         System.out.println("Su bono actual es  " + bonoactual);
     
         try {
-            System.out.println("Modificación 1");
+            System.out.println("Modificación 2");
             cesta.ActualizarBono(-50);
         } catch (Exception e) {
             System.out.print("Fallo…….");
